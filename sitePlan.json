@@ -1,0 +1,49 @@
+{
+  "businessName": "Nkay Integrated Services",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Engineering Excellence in Manufacturing Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Nkay Integrated Services\n\nEngineering Excellence in Manufacturing Solutions\n\nLeading manufacturing company delivering quality integrated services across Nigeria. Based in Uvwie, we combine technical expertise with reliable service delivery.",
+      "imagePrompt": "Modern Nigerian manufacturing facility exterior with clean industrial architecture, steel structures and glass panels, blue sky background, professional workers in safety gear visible in foreground, bright natural lighting, wide angle shot showing scale and professionalism, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "About Nkay Integrated Services\n\nNkay Integrated Services is a trusted manufacturing company operating from Uvwie, Delta State. We specialize in delivering comprehensive integrated manufacturing solutions that meet the diverse needs of businesses across Nigeria.\n\nOur facility at 7 Kodesoh Street, off Sokoh Road, Effurun, serves as our hub for innovation and excellence. We are committed to maintaining the highest standards of quality, safety, and reliability in every project we undertake.\n\nWith a focus on technical precision and customer satisfaction, we have built a reputation as a dependable partner for businesses seeking manufacturing excellence.",
+      "imagePrompt": "Interior of a well-organized Nigerian manufacturing workshop with modern machinery, clean floors, organized workstations, Nigerian engineers and technicians collaborating over technical drawings, bright overhead lighting, professional atmosphere, safety equipment visible, photorealistic industrial photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Integrated Manufacturing Solutions\n\nWe offer comprehensive manufacturing services tailored to meet your specific requirements:\n\n• Custom Manufacturing: Precision fabrication and production services designed to your exact specifications\n\n• Engineering Solutions: Technical expertise in design, planning, and execution of complex manufacturing projects\n\n• Quality Assurance: Rigorous testing and quality control procedures ensuring excellence in every delivery\n\n• Maintenance Services: Preventive and corrective maintenance to keep your operations running smoothly\n\n• Technical Consulting: Expert advice on manufacturing processes, equipment selection, and operational efficiency\n\n• Supply Chain Integration: Seamless coordination of materials, production, and delivery for your projects\n\nEvery service is delivered with attention to detail, adherence to safety standards, and commitment to timely completion.",
+      "imagePrompt": "Collage-style image showing different aspects of Nigerian manufacturing: welding sparks in action, precision measurement with calipers, quality inspection process, finished metal products, all set in a modern industrial environment with Nigerian workers demonstrating skill and professionalism, photorealistic, high detail",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Us",
+      "copy": "Why Choose Nkay Integrated Services\n\n✓ Technical Expertise: Experienced team with deep knowledge of manufacturing processes and industry best practices\n\n✓ Quality Commitment: We never compromise on quality, ensuring every project meets or exceeds expectations\n\n✓ Reliable Service: Consistent delivery on time and within budget, building long-term partnerships with our clients\n\n✓ Local Presence: Strategic location in Uvwie allows us to serve clients across Delta State and throughout Nigeria\n\n✓ Integrated Approach: End-to-end solutions from concept to completion, minimizing coordination challenges\n\n✓ Safety First: Strict adherence to safety protocols protecting our team, your project, and the environment",
+      "imagePrompt": "Professional Nigerian manufacturing team in branded uniforms and safety equipment, standing confidently in front of completed quality products, modern factory background, natural lighting through large windows, expressions of pride and professionalism, photorealistic corporate photography style",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Get in Touch\n\nReady to discuss your manufacturing needs? Our team is available to provide expert consultation and detailed quotations for your project.\n\nVisit Our Facility:\n7 Kodesoh Street, off Sokoh Road\nEffurun, Uvwie\nDelta State, Nigeria\n\nCall Us:\n0803 061 4265\n\nWhatsApp:\nQuick response via WhatsApp for urgent inquiries\n\nBusiness Hours:\nMonday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM\n\nWe look forward to partnering with you for manufacturing excellence.",
+      "imagePrompt": "Professional Nigerian business contact scene: modern office reception area with comfortable seating, receptionist at desk, visible company branding, maps of Nigeria on wall, natural light from windows, welcoming atmosphere, clients being greeted, photorealistic, warm professional lighting",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "08030614265",
+    "email": "",
+    "address": "7 Kodesoh Street, off Sokoh Road, Effurun, Uvwie, Delta State, Nigeria",
+    "whatsapp": "https://wa.me/2348030614265"
+  }
+}
